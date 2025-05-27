@@ -52,6 +52,7 @@ To run any project locally:
    ```bash
    npm start
    ```
+---
 
    ## 🎯 Goals
 - This repository was created to:
@@ -64,7 +65,11 @@ To run any project locally:
 
 - Learn to structure reusable and maintainable code
 
-  ## 🙋‍♀️ Author
-Made with ❤️ by Vidhi Rawat
+---
 
+
+  ## 🙋‍♀️ Author
+   Made with ❤️ by Vidhi Rawat
+
+---
 
